@@ -1,0 +1,23 @@
+﻿**********************
+Inizio trascrizione Windows PowerShell
+Ora di inizio: 20210629221227
+Nome utente: WORKGROUP\SYSTEM
+Esegui come utente: WORKGROUP\SYSTEM
+Nome configurazione: 
+Computer IT-5CG00261CY (Microsoft Windows NT 10.0.18363.0)
+Applicazione host: C:\Windows\sysnative\WindowsPowerShell\v1.0\powershell.exe -WindowStyle Hidden -ExecutionPolicy bypass -file InventoryInstall.ps1
+ID processo: 18256
+PSVersion: 5.1.18362.1593
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.1593
+BuildVersion: 10.0.18362.1593
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Trascrizione avviata. File di output: \InventoryInstall.debug.log
+**********************
+Fine trascrizione Windows PowerShell
+Ora di fine: 20210629221244
+**********************
